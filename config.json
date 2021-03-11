@@ -50,7 +50,7 @@
   "initializer_range": 0.02,
   "intermediate_size": 4096,
   "layer_norm_eps": 1e-05,
-  "layerdrop": 0.05,
+  "layerdrop": 0.1,
   "mask_channel_length": 10,
   "mask_channel_min_space": 1,
   "mask_channel_other": 0.0,
