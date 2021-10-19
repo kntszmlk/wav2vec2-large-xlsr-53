@@ -4,6 +4,7 @@ datasets:
 - common_voice
 tags:
 - speech
+- automatic-speech-recognition
 license: apache-2.0
 ---
 
